@@ -7,4 +7,5 @@
     <string name="duties_performed">Duties\nPerformed:</string>
     <string name="supervisors">Supervisors\nName and Title:</string>
     <string name="reason">Reason for\nleaving:</string>
+    <string name="contact">May we\ncontact them?</string>
 </resources>
