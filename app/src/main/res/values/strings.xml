@@ -2,4 +2,9 @@
     <string name="app_name">Activity 8</string>
     <string name="application_for_employment">Application for Employment</string>
     <string name="position_you_are_trying_to_apply">Position You Are Trying To Apply:</string>
+    <string name="dates_employed">Dates\nEmployed:</string>
+    <string name="work_phone">Work\nPhone:</string>
+    <string name="duties_performed">Duties\nPerformed:</string>
+    <string name="supervisors">Supervisors\nName and Title:</string>
+    <string name="reason">Reason for\nleaving:</string>
 </resources>
